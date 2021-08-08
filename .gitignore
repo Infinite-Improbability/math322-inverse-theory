@@ -33,3 +33,6 @@ Manifest.toml
 # IPython
 profile_default/
 ipython_config.py
+
+# Other
+svdapproximation_for_students.m
